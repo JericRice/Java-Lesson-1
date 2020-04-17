@@ -5,10 +5,9 @@ public class myClass {
 
         // Variable == bucket in memory
 
-        
+        String name = "Joe";
 
-
-        System.out.println("Hello World");
-        System.out.println("Another print line");
+        System.out.println(name);
+//        System.out.println("Another print line");
     }
 }
